@@ -1,0 +1,51 @@
+jd_id,right,wrong,missing
+JD001,Statistics; Microsoft Excel; Python,Teamwork,None
+JD002,TypeScript; JavaScript; CSS,None,React
+JD003,REST APIs; PostgreSQL; Node; Docker,Leadership,Git
+JD004,WordPress; Research; Content Writing,SEO; SAP,None
+JD005,Email Marketing; Google Analytics; Canva; Copywriting,Machine Learning; Social Media Marketing,None
+JD006,Design Systems; User Research; Wireframing; Figma,None,None
+JD007,Financial Modeling; Accounting; Microsoft Excel; GST,Kubernetes,None
+JD008,Python; Statistics; SQL; PyTorch,Time Management,Machine Learning
+JD009,Customer Support; Written English,Zendesk,Microsoft Excel
+JD010,Recruiting,None,HR Operations; Interviewing
+JD011,SQL; Power BI; Data Cleaning; Tableau; Microsoft Excel,Leadership; Python,None
+JD012,TypeScript; CSS; Git,Kubernetes,None
+JD013,Python; Node,Problem Solving,PostgreSQL
+JD014,Research; SEO,None,Content Writing
+JD015,Email Marketing; Copywriting; Google Analytics,Leadership,Canva
+JD016,Prototyping; Design Systems,None,Figma
+JD017,Tally; Accounting; Financial Modeling,None,None
+JD018,Pandas; SQL; Machine Learning; PyTorch,Blockchain,None
+JD019,Microsoft Excel; Customer Support,Teamwork,Written English
+JD020,Recruiting; Interviewing; Excel,None,None
+JD021,Tableau; Data Cleaning; SQL; Statistics,None,None
+JD022,React; CSS; TypeScript; JS,Git,HTML
+JD023,Node; Docker; API; Python,PostgreSQL; Communication,None
+JD024,WordPress; Copy Editing; SEO,None,None
+JD025,Email Marketing; Google Analytics; Canva,Leadership; Kubernetes,None
+JD026,Design Systems; Wireframing; Figma,Leadership,None
+JD027,Tally; Financial Modeling,Problem Solving,Accounting; GST
+JD028,Pandas; PyTorch,Python,Machine Learning
+JD029,Microsoft Excel; Written English,Customer Support,Zendesk
+JD030,Excel; Recruiting; HR Operations,Blockchain; Leadership,None
+JD031,Data Cleaning; Python; Excel; Statistics,Communication,None
+JD032,HTML; Git; React; JavaScript,None,None
+JD033,Node.js; Postgres; Python; Git,None,None
+JD034,WordPress; Content Writing; Research,SEO,None
+JD035,Google Analytics; Canva; Email Marketing; Copywriting,Blockchain; Social Media Marketing,None
+JD036,Wireframing; Figma; User Research,None,None
+JD037,Financial Modelling; Accounting; Tally,None,None
+JD038,SQL; Python; Pandas; PyTorch; Statistics,Machine Learning,None
+JD039,Written English; Microsoft Excel; Customer Support,Zendesk; Teamwork,None
+JD040,Recruiting; Microsoft Excel; Interviewing,Leadership; SAP; HR Operations,None
+JD041,Data Cleaning; Microsoft Excel,Machine Learning,Power BI
+JD042,JavaScript; Git; React,None,None
+JD043,Node,Git,PostgreSQL; REST APIs
+JD044,Content Writing; SEO,SAP; Research,Copy Editing
+JD045,Email Marketing; Social Media,None,Copywriting
+JD046,Prototyping; User Research,Wireframing; Problem Solving,Design Systems; Figma
+JD047,Excel; Tally; GST; Financial Modeling,Accounting; SAP,None
+JD048,SQL; Statistics; Python; Pandas; ML,PyTorch,None
+JD049,Written English,Zendesk,Customer Support; Microsoft Excel
+JD050,Excel; HR Operations; Recruiting,Interviewing,None
